@@ -1,4 +1,4 @@
 - 👋 Hi, I’m İsa Can Öksüz
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML, CSS
 - 📫 How to reach me kszisa@gmail.com
